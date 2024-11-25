@@ -1,0 +1,10 @@
+C:\Users\HarryWang\Desktop\CeHui\CeHui\bin\Debug\CeHui.exe.config
+C:\Users\HarryWang\Desktop\CeHui\CeHui\bin\Debug\CeHui.exe
+C:\Users\HarryWang\Desktop\CeHui\CeHui\bin\Debug\CeHui.pdb
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.csprojAssemblyReference.cache
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.Form1.resources
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.Properties.Resources.resources
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.csproj.GenerateResource.cache
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.csproj.CoreCompileInputs.cache
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.exe
+C:\Users\HarryWang\Desktop\CeHui\CeHui\obj\Debug\CeHui.pdb
